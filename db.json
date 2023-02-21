@@ -30,5 +30,18 @@
 			"number": "22222",
 			"response": "Your order is on the way"
 		}
+	],
+	"Loyalty_no": [{
+			"id": 1,
+			"number": "1234",
+			"name": "Chhavi Malhotra",
+			"points": "2000"
+		},
+		{
+			"id": 2,
+			"number": "211",
+			"name": "Alvyn Cheang",
+			"points": "1000"
+		}
 	]
 }
