@@ -31,23 +31,9 @@
 			"response": "Your order is on the way"
 		}
 	],
-	"Loyalty_no": [{
-			"id": 1,
-			"number": "1234",
-			"data": [{
-				"name": "Chhavi Malhotra",
-				"points": "2000"
-			}]
-		},
-		{
-			"id": 2,
-			"number": "211",
-			"data": [{
-				"name": "Alvyn Cheang",
-				"points": "1000"
-			}]
+	"Loyalty_no": {
+		"number": {
+			"id": "211",
+			"points": "1000"
 		}
-	],
-	"test_no": 212,
-	"result": "test"
-}
+	}
