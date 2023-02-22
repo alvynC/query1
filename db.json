@@ -31,9 +31,15 @@
 			"response": "Your order is on the way"
 		}
 	],
-		"Loyalty_no": {
-		"id": "211",
-		"points": "1000",
-		"name": "Alvyn"
+	"Loyalty_no": {
+		"Result": {
+			"id": "211",
+			"points": "1000",
+			"name": "Alvyn"
+		},
+		"id": "222",
+		"points": "2000",
+		"name": "Aaron"
 	}
-	}
+
+}
