@@ -37,21 +37,6 @@
 			"phone": "6591282653"
 		}
 	],
-	"Phone_no": [{
-			"id": 1,
-			"Name": "Alvyn Cheang",
-			"Agent_ID": "321243",
-			"Area" : "Mumbai Metro",
-			"phone": "6591282653"
-		},
-		{
-			"id": 2,
-			"Name": "Karthik Shetty",
-			"Agent_ID": "34312434",
-			"Area" : "Bangalore",
-			"phone": "919611784404"
-		}
-	],
 	"Jumper_order": {
 		"Result": [{
 				"number": "11111",
