@@ -50,27 +50,6 @@
 			"Agent_ID": "34312434",
 			"Area" : "Bangalore",
 			"phone": "919611784404"
-		},
-		{
-			"id": 3,
-			"Name": "Jitender",
-			"Agent_ID": "42344332",
-			"Area" : "Delhi",
-			"phone": "919815049533"
-		},
-		{
-			"id": 4,
-			"Name": "Parag",
-			"Agent_ID": "349980",
-			"Area" : "Delhi",
-			"phone": "919038008749"
-		},
-		{
-			"id": 5,
-			"Name": "Vishal",
-			"Agent_ID": "3494243",
-			"Area" : "Delhi",
-			"phone": "919819571272"
 		}
 	],
 	"Jumper_order": {
