@@ -73,16 +73,6 @@
 			"phone": "919819571272"
 		}
 	],
-	"Loyalty_no": {
-		"Result": {
-			"id": "211",
-			"points": "1000",
-			"name": "Alvyn"
-		},
-		"id": "222",
-		"points": "2000",
-		"name": "Aaron"
-	},
 	"Jumper_order": {
 		"Result": [{
 				"number": "11111",
