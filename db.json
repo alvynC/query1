@@ -65,6 +65,48 @@
 			"description": "Calvin"
 			   }
 			  ]
-	}
+	},
+	"Loan": [{
+			"id": 1,
+			"DOB": "01/01/2000",
+			"late_payment_amount": "150",
+			"Payment_due": "22 April 2024",
+			"Interest_amount": "1.2%",
+			"Next_payment_date": "20 April",
+			"Payment_amount" : "1020.30",
+			"overdue_days": "10",
+			"Amount_owed": "10980.32",
+			"Loan_no": "11111",
+			"Borrower_name": "Jonathan",
+			"Phone_no": "6580435565"
+		},
+		{
+			"id": 2,
+			"DOB": "01/01/2000",
+			"late_payment_amount": "150",
+			"Payment_due": "22 April 2024",
+			"Interest_amount": "1.2%",
+			"Next_payment_date": "20 April",
+			"Payment_amount" : "1020.30",
+			"overdue_days": "10",
+			"Amount_owed": "10980.32",
+			"Loan_no": "22222",
+			"Borrower_name": "Alice",
+			"Phone_no": "6580435565"
+		},
+		{
+			"id": 3,
+			"DOB": "01/01/2000",
+			"late_payment_amount": "150",
+			"Payment_due": "22 April 2024",
+			"Interest_amount": "1.2%",
+			"Next_payment_date": "20 April",
+			"Payment_amount" : "1020.30",
+			"overdue_days": "10",
+			"Amount_owed": "10980.32",
+			"Loan_no": "33333",
+			"Borrower_name": "Jay",
+			"Phone_no": "6580435565"
+		}
 
 }
