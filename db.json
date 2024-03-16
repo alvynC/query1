@@ -42,30 +42,6 @@
 			}
 		]
 	},
-	"Patient_list": {
-		"Result": [{
-			"title": "1",
-			"value": "6591282653",
-			"description": "Alvyn Cheang"
-		},
-			   {
-			"title": "2",
-			"value": "6591282653",
-			"description": "Jayson"
-			   },
-			   {
-			"title": "3",
-			"value": "6591282653",
-			"description": "Amanda"
-
-			   },
-			   {
-			"title": "4",
-			"value": "6591282654",
-			"description": "Calvin"
-			   }
-			  ]
-	},
 	"Loan": [{
 			"id": 1,
 			"DOB": "01/01/2000",
